@@ -38,6 +38,7 @@ Iniciar el servidor de desarrollo
 ```bash
   npm run dev
 ```
+La api se encuentra en: http://localhost:3000/api/recipes
 
 # 📱 Aplicación de Recetas - Frontend (Flutter)
 
